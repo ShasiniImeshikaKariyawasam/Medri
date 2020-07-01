@@ -1,0 +1,2 @@
+# Medri
+Pharmacy Management System
